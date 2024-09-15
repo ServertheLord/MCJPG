@@ -18,7 +18,14 @@ hero:
 
 features:
   - icon:
-      src: /server_icons/WindyRiver.jpg
+      src: /server_icons/BugCraft.png
+    title: BugCraft
+    details: 这是一个 Java 和基岩互通生存服务器，兼容 Java 1.13 以上，基岩版 1.20.6 以上。</br>无需正版登录和审核，您可以直接加入游玩。
+    link: https://bugcraft.org
+    linkText: BugCraft 的官方网站。
+
+  - icon:
+      src: /server_icons/WindyRiver.png
     title: 风河 | WindyRiver
     details: 版本：Java | 1.21-1.8 (生存子服版本不定期更新，当前核心版本1.20.4) (正盗版融合登录，正版仍享应得权益)</br>欢迎来到风河，一个大型综合性服务器！</br>玩法包括【生存|天坑乱斗|游艺街(小游戏合集)】</br>公会 生电 粘液科技 养老 语音聊天 资源维度 结婚 通行证 PVP 小游戏</br>我服有活跃的管理，时不时整活的腐竹和完善的服规及新手指引（5000多字的PDF为新手保驾护航）</br>放在家中的高性能永久物理服务器，i9-14900K+64G内存，为玩家的游玩体验保驾护航。</br>事不宜迟，快来加入风河吧~
     link: https://qm.qq.com/q/VvtGhFSfkI
@@ -60,10 +67,10 @@ features:
     linkText: 加入MCIC!
   
   - icon:
-      src: /server_icons/曙光生电.jpg
+      src: /server_icons/曙光生电.png
     title: 曙光生电
     details: 版本：JE1.21.1 兼容BE和JE低版本 </br>新生电服开荒中
-    link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=-zK1L63kZnjdFeZU2u7kBOGMhQgK7yfX&authKey=rMQ92V8gLBzHBPCAl%2FqILp58qZhdsL5mrHfyjMK%2Foc1EzVjWI8u8W1EfQPUpISzC&noverify=0&group_code=975992476
+    link: https://sg.mxdw.fun
     linkText: 开始你的世界，创造你的可能，加入我们！
 
   - icon:
@@ -139,7 +146,7 @@ features:
   - icon:
       src: /server_icons/自由之风.png
     title: FreeWind
-    details: 版本1.7-1.21 </br>生电 互通 粘液科技 休闲 养老 非周目制</br>探索未知，创造无限---欢迎来到自由之风服务器，一个充满创新与冒险的虚拟世界。在这里，您可以：</br> 自由建造：利用无限的资源，建造您心中的理想家园或宏伟城堡。</br>科技实验：体验最前沿的粘液科技，让您的创造更加高效和智能。</br>冒险探索：深入未知的领域，寻找隐藏的宝藏，挑战强大的Boss。</br>加入我们，释放您的创造力，与玩家一起，共同打造一个独一无二的游戏世界。自由之风，等待您的加入!</br>服务器地址freewind.mcjpg.org:30003
+    details: 版本1.7-1.21 </br>生电 互通 粘液科技 休闲 养老 非周目制 小游戏 </br>探索未知，创造无限---欢迎来到自由之风服务器，一个充满创新与冒险的虚拟世界。在这里，您可以：</br> 自由建造：利用无限的资源，建造您心中的理想家园或宏伟城堡。</br>科技实验：体验最前沿的粘液科技，让您的创造更加高效和智能。</br>冒险探索：深入未知的领域，寻找隐藏的宝藏，挑战强大的Boss。</br>加入我们，释放您的创造力，与玩家一起，共同打造一个独一无二的游戏世界。自由之风，等待您的加入!</br>服务器地址freewind.mcjpg.org:11486
     link: https://qm.qq.com/q/q51dtS4Kty
     linkText: 期待您的加入 
 
